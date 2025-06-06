@@ -2,5 +2,10 @@
   "uniswap": {
     "v3": [],
     "v2": []
-  }
+  },
+  "pancakeswap": {
+    "amm": [],
+    "v3": []
+  },
+  "blacklistedTokens": []
 }
